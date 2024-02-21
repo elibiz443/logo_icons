@@ -40,7 +40,7 @@ All icons in this repository are provided under the MIT License. You are free to
 
 If you have any questions, suggestions, or feedback regarding this repository, feel free to reach out:
 
-- GitHub: (https://github.com/elibiz443)
+- GitHub: https://github.com/elibiz443
 - Email: ellyambet10@gmail.com
 
 Happy logo designing!
